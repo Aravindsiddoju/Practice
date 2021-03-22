@@ -1,0 +1,16 @@
+Warm up questions.
+Arrays
+Dictionaries and Hash maps
+Sorting
+	Two questions left(link)
+Searching
+String Manipulation
+Greedy algorithms
+DP
+Stacks and Queues
+Graphs
+Trees
+LL
+Recursion and Back tracking
+	One question left(link)
+Miscellaneous

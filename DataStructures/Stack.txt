@@ -1,0 +1,33 @@
+Checklist:
+Geeks for geeks coding questions
+Hacker rank coding questions
+
+Infix, Prefix & Postfix:
+Prefix to Infix : https://ide.geeksforgeeks.org/9VO4vZ7sGL
+Prefix to Postfix: https://ide.geeksforgeeks.org/rNlTMjwmCu
+
+Postfix to Prefix : https://ide.geeksforgeeks.org/D6FuuTY6IJ
+Postfix to Infix: https://ide.geeksforgeeks.org/O6ZymXXIEv
+
+*Infix to Postfix: https://ide.geeksforgeeks.org/Feoz1FU3qA
+*Infix to Prefix: https://ide.geeksforgeeks.org/hN9bDWbfqV
+
+
+
+
+Tough 
+Longest span    => https://ide.geeksforgeeks.org/eS0T7xGMyf
+Largest area under rectangle => https://practice.geeksforgeeks.org/viewSol.php?subId=09f2b2a2730190aec4624121b0a140af&pid=701340&user=aravindsiddoju
+Nearest greater element on the right side => https://ide.geeksforgeeks.org/JefxwOyixJ
+Number of greater elements to the right side =>
+Maximum product of indexes of next greater on left and right => https://ide.geeksforgeeks.org/pGMmd7ZYAY
+The Celebrity problem =>  https://practice.geeksforgeeks.org/viewSol.php?subId=6a967ae150143fd4e0ce9de3c3b49319&pid=700253&user=aravindsiddoju
+Evaluating the expression : https://www.geeksforgeeks.org/expression-evaluation/
+Merge Overlapping Intervals:  https://www.geeksforgeeks.org/merging-intervals/
+Find maximum depth nested parenthesis: https://www.geeksforgeeks.org/find-maximum-depth-nested-parenthesis-string/
+Longest valid substring : https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/
+Redundant Parenthesis count : https://ide.geeksforgeeks.org/8jLeVn3j97
+Check if two expressions with brackets are same: https://www.geeksforgeeks.org/check-two-expressions-brackets/
+Count all permutations: https://www.geeksforgeeks.org/count-natural-numbers-whose-permutation-greater-number/
+
+Useful references:

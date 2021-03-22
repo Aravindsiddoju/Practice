@@ -1,0 +1,72 @@
+Three clean coding principles:
+	• Right tool for the job
+		○ Watch for boundaries
+		○ Stay native
+		○ One language for the file
+	• High SNR
+		○ TED: Terse, Expressive, Does one thing
+		○ DRY: Don't repeat yourself
+		○ Watch for patterns
+	• Self documenting
+
+
+
+Naming:
+	• The name should say it all.
+	• Use specific class names
+	• Watch for function side effects
+	• Avoid abbreviations.
+	• Booleans should sound true/false
+	• Strive for symmetry
+
+
+
+Writing conditionals that convey intent:
+	• Strive for clear intent
+	• Assign and compare booleans implicitly
+	• Prefer positive conditionals
+	• Prefer ternaries over if/else
+	• Be strongly typed via constants, enums
+	• Avoid magic numbers
+	• Avoid complex conditionals
+		○ Declare variables, extract methods
+	• Prefer declarative over imperative
+		○ Use Linq whenever possible
+	• Consider using the DB
+	
+
+
+Method
+	• Method vs Function => methods are associated with objects.
+	• Why?
+		○ Duplication
+		○ Indentation
+		○ Unclear Intent
+		○ Single responsibility
+	• Avoid Duplication:
+		○ Check for similar patterns
+	• Excessive Indentation
+		○ Extract method
+		○ Fail fast
+			§ Throwing the exceptions or false conditions early and then implementing the core logic
+		○ Return early 
+			§ Return the output early if you don't have to anything with the additional logic.
+	• Unclear intent
+		○ Method name should convey what we are doing, and the reader don't need to go into the method to understand it.
+	• Single responsibility
+		○ Aids the user
+		○ Promotes reuse
+		○ Eases naming and testing
+		○ Avoids side effects
+	• Mayfly variables
+		○ Initialize the variables on need basis(in that moment)
+		○ Limit variable lifetime
+	• How many parameters
+		○ Strive to use only (0-2) parameters
+		○ Avoid flag parameters
+	• Signs method is too long
+		○ Whitespace and comments
+		○ Scrolling required
+		○ Naming issues
+		○ Multiple conditionals
+		○ Hard to digest(try to have single responsibility)

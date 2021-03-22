@@ -1,0 +1,12 @@
+Checklist:
+Geeks coding questions
+Hakerrank coding questions(few questions left)
+
+
+Tough/imp:
+Sliding window maximum element https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/
+Circular tour petrol stations https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/
+Minimum time to rot the oranges https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-rotten/
+First negative integer in every window of k size https://www.geeksforgeeks.org/first-negative-integer-every-window-size-k/
+First non repeating in the sequence using queue https://www.geeksforgeeks.org/queue-based-approach-for-first-non-repeating-character-in-a-stream/
+

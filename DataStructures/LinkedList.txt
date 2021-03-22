@@ -1,0 +1,9 @@
+Checklist:
+Geeks for geeks coding questions
+Hacker rank coding questions
+
+
+Useful references:
+Geeks for geeks template:
+https://ide.geeksforgeeks.org/Ss7o3y2nFF
+Remove the middle points in the line segments: https://www.geeksforgeeks.org/given-linked-list-line-segments-remove-middle-points/
